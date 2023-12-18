@@ -23,6 +23,12 @@ body {
     color: gray;
 }
 
+ .p--footer {
+    text-align: end;
+    color: azure;
+    font-size: 12px;
+}
+
 .link--cta {
     font-size: 16px;
     color: aquamarine;
